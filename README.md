@@ -151,4 +151,13 @@ Before asking mentors for help:
 
 ## Status
 
-In progress: design analysis and structure planning for the easy template.
+In progress: design analysis and structure planning for the easy template.[Done]
+Built the layout of the template. [Done]
+Implemented clean code structure with no unnecessary nesting of div. [Done]
+
+Here is how the Website is looking at this level :
+<img width="1402" height="1122" alt="ScaleX_template" src="https://github.com/user-attachments/assets/8d4e9bdb-1c5d-4ae8-8cfa-3375c3b866bc" />
+
+Next is Polishing :
+
+
