@@ -156,7 +156,11 @@ Built the layout of the template. [Done]
 Implemented clean code structure with no unnecessary nesting of div. [Done]
 
 Here is how the Website is looking at this level :
-<img width="1402" height="1122" alt="ScaleX_template" src="https://github.com/user-attachments/assets/8d4e9bdb-1c5d-4ae8-8cfa-3375c3b866bc" />
+
+
+https://github.com/user-attachments/assets/7c4d52bc-8926-4463-91ec-45cb9124ef8f
+
+
 
 Next is Polishing :
 
