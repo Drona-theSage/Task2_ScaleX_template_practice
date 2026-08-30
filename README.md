@@ -11,7 +11,9 @@ https://www.notion.so/A2-Assignment-Two-35aaa7c5a79e807db277dff42d67bc1e
 
 This is the design I am trying to recreate:
 
-![ScaleX Template Reference](../ScaleX_template.png)
+![ScaleX Template Reference]
+<img width="1402" height="1122" alt="ScaleX_template" src="https://github.com/user-attachments/assets/cb56f44a-e015-44b1-90d8-381436c3966c" />
+
 
 > The image above is the reference layout I am using to guide my implementation.
 
