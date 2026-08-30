@@ -1,0 +1,237 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: black ;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+.main{
+    width: 100%;
+    height: 100%;
+    padding:12px;
+}
+
+/* navbar section CSS*/
+
+    .navbar{
+        display: flex;
+        width:100%;
+        height: 10%;
+        padding:5px;
+        padding-left:10px;
+        padding-right:10px;
+        justify-items: center;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+
+/* logo Section CSS*/
+    .logo_div{
+        width: 175px;
+        height: 65px;
+        padding:5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap:1px;
+    }
+
+    .logo{
+        width:34%;
+        height:50px;
+        background: cover;
+        overflow: hidden;
+    }
+
+    .logo img{
+    width: 50px;
+    height: 100%;
+  
+    }
+
+    .Logo_name{
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+/* Navbar Heading section CSS */
+
+    .Nav_heading_div{
+        width: 400px;
+        height:85px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-between;
+        padding:9px;
+
+    }
+
+    .navbar_heading{
+        padding:7px 0px 7px 0px;
+        text-align: center;
+        width: 100px;
+        height: 40px;
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+
+/* Navbar Button CSS */
+
+    .Get_Started_button{
+        border:none;
+        width: 120px;
+        height: 40px;
+
+    }
+
+    .Get_Started_button button{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(34, 32, 32);
+        color: white;
+        font-size: 16px;
+        border: none;
+
+    }
+
+
+/* Main Section CSS */
+.main_content{
+    width:100%;
+    height: 100%;
+    padding: 3px;
+
+}
+
+/* hero section CSS */
+
+.hero_section{
+    width: 100%;
+    height: 30%;
+    font-size: 11rem;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom:2px;
+    margin-left: 30px;
+    margin-right:30px;
+    padding: 5px 15px 5px 15px;
+}
+
+/* menu_section CSS */
+
+.menu_section{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+}
+
+.option_design{
+    display: flex;
+    width: fit-content;
+    height:fit-content;
+
+}
+
+.options{
+    align-items: center;
+    padding:13px  0px 13px 0px ;
+    width: fit-content;
+    height:45px;
+    text-align: center;
+    background-color: rgb(34, 32, 32);
+}
+
+.left_rounded_border , .right_rounded_border{
+    width: 22px;
+    height:45px;
+    background-color:rgb(34, 32, 32);
+}
+
+.left_rounded_border{
+ border-radius: 50% 0% 0% 50%;
+
+}
+
+.right_rounded_border{
+    border-radius: 0% 50% 50% 0%;
+
+}
+
+#first_option_left{
+     background-color: orangered;
+}
+#first_option_right{
+     background-color: orangered;
+}
+
+#orange_option{
+    background-color: orangered;
+}
+
+
+/* Carousel Section CSS */
+
+.carousel_section{
+    padding:10px;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    padding: 2px;
+    margin-top:2px;
+    margin-bottom: 20px;
+}
+
+.carouselCard{
+    width: 400px;
+    height: 550px;
+    display:flex;
+    flex-direction: column;
+    border-radius: 5%;
+    background-color: rgb(34, 32, 32);
+    margin-left: 10px
+}
+
+.carousel_image{
+    width: 100%;
+    height: 60%;
+    border-radius: 30%;
+    background: center;
+}
+
+.carousel_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 20px;
+    width: 100%;
+    height: 40%;
+    padding: 5px 10px 5px 10px;
+    gap: 3px;
+}
+
+.Carousel_tagName{
+    width: 80px;
+    text-align: center;
+    height: fit-content;
+    padding: 2px 3px 2px 3px;
+    color: rgb(235, 157, 12);
+    background-color: rgb(168, 72, 3);
+    border-radius: 12%;
+}
+
