@@ -164,7 +164,16 @@ https://github.com/user-attachments/assets/7c4d52bc-8926-4463-91ec-45cb9124ef8f
 
 Next is Polishing :
 
-Completed the assignment.
+Completed the assignment. Here is the final look of my template:
+
+
+https://github.com/user-attachments/assets/76dd8ca1-287a-4af8-a0da-6b829a2056aa
+
+
+
+
 
 ## couldn't Replicate:
+These div design were something i couldn't implement .
+<img width="614" height="146" alt="ScaleX_template" src="https://github.com/user-attachments/assets/b87f77d6-b70d-42f2-a931-9a66d0393c28" />
 
